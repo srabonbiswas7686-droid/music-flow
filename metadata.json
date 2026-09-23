@@ -1,0 +1,6 @@
+{
+  "name": "MUSIC FLOW",
+  "description": "Modern music streaming app with playlists, real-time audio playback, search, favorites, album explorer, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
